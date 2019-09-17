@@ -1,4 +1,4 @@
 # ToDo-List-App
-A simple to-do list web application.
+A to-do list web application.
 
-![](images/todolist.png)
+<img src="todolist.png" width="500">
